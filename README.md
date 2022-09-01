@@ -6,3 +6,7 @@
 
 - [大型网站技术架构](./arch/大型网站技术架构.epub)
 - [大型网站技术架构与业务架构融合之道](./arch/大型网站技术架构与业务架构融合之道.epub)
+
+## Java 书籍
+
+- [Java 工程师成神之路](https://hollischuang.gitee.io/tobetopjavaer/#/)
